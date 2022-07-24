@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\bin\Debug\net6.0\CamposHarmonicos.exe
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\bin\Debug\net6.0\CamposHarmonicos.deps.json
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\bin\Debug\net6.0\CamposHarmonicos.runtimeconfig.json
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\bin\Debug\net6.0\CamposHarmonicos.dll
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\bin\Debug\net6.0\CamposHarmonicos.pdb
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.AssemblyInfo.cs
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.dll
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\refint\CamposHarmonicos.dll
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.pdb
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\CamposHarmonicos.genruntimeconfig.cache
+C:\Users\junin\Desktop\CamposHarmonicos\CamposHarmonicos\obj\Debug\net6.0\ref\CamposHarmonicos.dll
