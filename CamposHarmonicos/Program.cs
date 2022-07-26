@@ -12,7 +12,7 @@ foreach (var campo in listaCamposHarmonicos)
 {
     string tom = campo[0];
     campo.RemoveAt(0);
-    Console.WriteLine($"\nCampo harmonico de {tom}");
+    Console.WriteLine($"\nCampo harmônico de {tom}");
 
     foreach (var nota in campo.ToList())
     {
