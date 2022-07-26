@@ -39,6 +39,7 @@ foreach (var campo in listaCamposHarmonicos)
     }
 }
 
+Console.WriteLine($"\nParabéns, você venceu o jogo com {pontos} pontos!");
 Console.ReadKey();
 
 static Tuple<string, string> SelecionarNota(List<string> campo)
